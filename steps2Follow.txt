@@ -1,0 +1,24 @@
+
+1. Search for sautinsoft.com
+
+2. Select Pdffocus.net
+
+3. Download the trial version -> select Pdf focus .net from this site same as for pdf Vision
+
+4. download it and extract it 
+
+5. click the folder and go to bin and select the desired versions you need while adding the reference
+
+6. Open visual Studio and go for console application
+
+7. Right click on reference and add reference 
+
+	In .net option, select
+		
+		System.drawing
+
+8. Again In reference Right Click and add reference
+ 
+	In Browse Select sautinsoft.dll according to the versions
+
+9. Write the code and run it give the path correctly
